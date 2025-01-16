@@ -5,7 +5,7 @@ public class BankAccount
 
     public double Deposit(double value)
     {
-        return balance =+ value;
+        return balance += value;
     }
 
     public double GetBalance()
